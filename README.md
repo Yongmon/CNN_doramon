@@ -35,3 +35,5 @@
 ## 🚩 过拟合证据
 
 ### 训练过程快照
+<img width="679" height="1192" alt="image" src="https://github.com/user-attachments/assets/45480fdc-1368-462f-b372-d22bfdf58fa0" />
+<img width="1617" height="531" alt="image" src="https://github.com/user-attachments/assets/8a148c75-b1c8-40d5-a915-fde402395d0c" />
